@@ -46,5 +46,5 @@ in ![](css/styles.css) (line 15, 16) worked - I was anticipating 50% to move to 
 
 ## Author
 
-- GitHub - [valleyman89](https://github.com/BoddepallyVenkatesh06)
-- Frontend Mentor - [@valleym89](https://www.frontendmentor.io/profile/BoddepallyVenkatesh06)
+- GitHub - [Venky kumar](https://github.com/BoddepallyVenkatesh06)
+- Frontend Mentor - [@Venkykumar](https://www.frontendmentor.io/profile/BoddepallyVenkatesh06)
